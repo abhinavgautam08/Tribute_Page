@@ -7,10 +7,11 @@ A responsive tribute page for Dr. A.P.J. Abdul Kalam featuring animated CSS cand
 
 ## Features
 
-- **Animated Candles**: CSS-animated candles with flickering flames
+- **Animated Candles**: CSS-animated candles with flickering flames (Desktop mode)
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Dark Theme**: Elegant memorial-appropriate styling
 - **Pure CSS**: No JavaScript required
+
 
 ## Setup
 
