@@ -1,5 +1,5 @@
 # A.P.J. Abdul Kalam Tribute Page (LEVEL 2 - TASK 1) 
-[Live](https://0qzdqxyxxxnzmeqkmps8wa.on.drv.tw/tribute/)
+[Live](https://0qzdqxyxxxnzmeqkmps8wa.on.drv.tw/codsoft-tribute/)
 
 A responsive tribute page for Dr. A.P.J. Abdul Kalam featuring animated CSS candles and elegant dark theme design.
 
