@@ -1,5 +1,5 @@
 # A.P.J. Abdul Kalam Tribute Page 
-[Live](https://0qzdqxyxxxnzmeqkmps8wa.on.drv.tw/codsoft-tribute/)
+[Live](https://abhinavgautam08-tribute.on.drv.tw/TP)
 
 A responsive tribute page for Dr. A.P.J. Abdul Kalam featuring animated CSS candles and elegant dark theme design.
 
